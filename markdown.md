@@ -1,4 +1,5 @@
 # Les secrets du Markdown
+<<<<<<< Updated upstream
 
 Le **Markdown** est un language qui permet d'écrire du HTML de façon raccourcie. Voici les différentes façons de styliser du texte, plus simplement ! :heart_eyes:
 
@@ -76,3 +77,27 @@ Comme ceci :  ![baby Yoda] (https://giphy.com/gifs/mashable-baby-yoda-mandaloria
 
 Il s'agit de l'équivalent de <p><img src="https://giphy.com/gifs/mashable-baby-yoda-mandalorian-the-C0ZArORmrDQCRTIFnQ" alt="baby Yoda" /></p>
 Il s'agit de l'équivalent de <p><img src="https://giphy.com/gifs/mashable-baby-yoda-mandalorian-the-C0ZArORmrDQCRTIFnQ" alt="baby Yoda" /></p>
+=======
+
+Le Markdown est un language qui permet d'écrire du HTML de façon raccourcie. Voici les différentes façons de styliser du texte, plus simplement ! :heart_eyes:
+
+## Sommaire 
+* Titres
+* Paragraphes
+* Listes
+* Emphase
+* Liens
+* Images
+* Code
+
+## Titres
+# Titre de niveau <h1>
+## This is an <h2> tag ###### This is an <h6> tag
+
+## Paragraphes 
+
+
+## Listes 
+
+
+>>>>>>> Stashed changes

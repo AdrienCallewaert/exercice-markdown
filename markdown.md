@@ -23,7 +23,7 @@ La première manière, plus pratique et complète, est d'ajouter un ou plusieurs
 La deuxième manière est de "souligner" le titre, comme dans l'exemple ci-dessous :
 
 Titre de niveau 1
-============
+====================
 
 Titre de niveau 2
 -------------------

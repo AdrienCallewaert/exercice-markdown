@@ -9,4 +9,3 @@ Ceci est un paragraphe normal
 
 * Mentioner du code dans du texte en l'entourant avec ` 
 Exemple : avec `printf()` on peut afficher à l'écran
-

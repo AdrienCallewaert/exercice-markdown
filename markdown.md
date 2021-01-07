@@ -1,0 +1,12 @@
+
+## Les blocs de code
+
+Markdown permet plusieurs manipulations de code :
+
+* Produire un bloc de code en faisant une tabulation ou 4 espaces. 
+    Ceci est un bloc de code
+Ceci est un paragraphe normal
+
+* Mentioner du code dans du texte en l'entourant avec ` 
+Exemple : avec `printf()` on peut afficher à l'écran
+

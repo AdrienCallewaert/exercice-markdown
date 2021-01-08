@@ -50,10 +50,10 @@ Pour créer une liste numérotée, il faut ajouter le numéro correspondant au d
 ## Emphase (gras, italique, ...)
 L'emphase est une mise en valeur d'un mot ou d'un groupe de mots.
 
-Pour réaliser une emphase faible, l'équivalent du <em> sur HTML, il suffit d'entourer le mot d'une étoile \* ou d'un trait de souligenement \_ au début et à la fin du mot ou du groupe de mots. Le mot apparaît en italique.
+Pour réaliser une emphase faible, l'équivalent du em sur HTML, il suffit d'entourer le mot d'une étoile \* ou d'un trait de souligenement \_ au début et à la fin du mot ou du groupe de mots. Le mot apparaît en italique.
 Comme ceci : *italique* ou _italique_
 
-Pour réaliser une emphase forte, l'équivalent du <strong> sur HTML, il suffit d'entourer le mot de deux étoiles \*\* ou de deux traits de souligenement \_\_ au début et à la fin du mot ou du groupe de mots. Le mot apparaît en gras. 
+Pour réaliser une emphase forte, l'équivalent du strong sur HTML, il suffit d'entourer le mot de deux étoiles \*\* ou de deux traits de souligenement \_\_ au début et à la fin du mot ou du groupe de mots. Le mot apparaît en gras. 
 Comme ceci : **gras** ou __gras__
 
 ## Liens

@@ -35,7 +35,7 @@ Comme ceci : **gras** ou __gras__
 Pour écrire un lien sur *Markdown*, il faut entourer le lien cliquable entre crochets \[\] et le lien URL entre parenthèses \(\).
 Comme ceci : Rendez-vous sur [Becode.org] (https://becode.org/)!
 
-Il s'agit de l'équivalent de <p>Rendez-vous sur <a href="https://becode.org"> Becode.org </a>!</p> sur HTML.
+Il s'agit de l'équivalent de : <p>Rendez-vous sur <a href="https://becode.org"> Becode.org </a>!</p> sur HTML.
 
 ## Les images
 ### Images statiques

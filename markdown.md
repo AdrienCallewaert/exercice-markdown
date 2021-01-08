@@ -101,7 +101,7 @@ Markdown permet plusieurs manipulations de code :
     Ceci est un bloc de code
 Ceci est un paragraphe normal
 
-* Mentioner du code dans du texte en l'entourant avec "`" 
+* Mentioner du code dans du texte en l'entourant avec un accent grave 
 Exemple : avec `printf()` on peut afficher à l'écran
 
 

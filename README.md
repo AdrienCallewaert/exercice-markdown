@@ -19,9 +19,6 @@ Ce dossier contient deux fichiers :
 >>>>>>> Stashed changes
 
 
-
-
-
 Remerciments
 ------------
 

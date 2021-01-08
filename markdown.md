@@ -107,7 +107,7 @@ Exemple : avec `printf()` on peut afficher à l'écran
 
 Hyper lien
 ----------
-[Référenciel readme](#https://github.com/AdrienCallewaert/exercice-markdown/blob/master/README.md)
+[Référenciel readme](./README.md)
 
 
 Dream Team Ever

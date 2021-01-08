@@ -1,118 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Les blocs de code
-
-Markdown permet plusieurs manipulations de code :
-
-* Produire un bloc de code en faisant une tabulation ou 4 espaces. 
-    Ceci est un bloc de code
-Ceci est un paragraphe normal
-
-* Mentioner du code dans du texte en l'entourant avec ` 
-Exemple : avec `printf()` on peut afficher à l'écran
 # Les secrets du Markdown
 
 Le **Markdown** est un language qui permet d'écrire du HTML de façon raccourcie. Voici les différentes façons de styliser du texte, plus simplement ! :heart_eyes:
@@ -193,3 +78,13 @@ Il faut donc entourer l'équivalent de l'alt du HTML entre crochets \[\] et le p
 Comme ceci :  ![baby Yoda] (https://giphy.com/gifs/mashable-baby-yoda-mandalorian-the-C0ZArORmrDQCRTIFnQ)
 
 Il s'agit de l'équivalent de <p><img src="https://giphy.com/gifs/mashable-baby-yoda-mandalorian-the-C0ZArORmrDQCRTIFnQ" alt="baby Yoda" /></p>
+
+## Les blocs de code
+Markdown permet plusieurs manipulations de code :
+
+* Produire un bloc de code en faisant une tabulation ou 4 espaces. 
+    Ceci est un bloc de code
+Ceci est un paragraphe normal
+
+* Mentioner du code dans du texte en l'entourant avec ` 
+Exemple : avec `printf()` on peut afficher à l'écran

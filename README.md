@@ -1,5 +1,4 @@
 Exercice-markdown
-=================
 
 A propos
 --------

@@ -92,3 +92,7 @@ Exemple : avec `printf()` on peut afficher à l'écran
 Hyper lien
 ----------
 [Référenciel readme](#README.md)
+
+Dream Team Ever
+---------------
+You know my intelligence. <p><img src="https://i.imgur.com/93Cx5lh.gif" alt="WE" /></p>

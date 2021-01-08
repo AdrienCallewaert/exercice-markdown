@@ -20,6 +20,11 @@ La première manière, plus pratique et complète, est d'ajouter un ou plusieurs
 ### Titre de niveau 3
 #### Titre de niveau 4
 
+`# Titre de niveau 1`
+`## Titre de niveau 2`
+`### Titre de niveau 3`
+`#### Titre de niveau 4`
+
 La deuxième manière est de "souligner" le titre, comme dans l'exemple ci-dessous :
 
 Titre de niveau 1
@@ -27,6 +32,13 @@ Titre de niveau 1
 
 Titre de niveau 2
 -------------------
+
+`Titre de niveau 1`
+`====================`
+
+`Titre de niveau 2`
+`-------------------`
+
 
 ## Paragraphes 
 Pour réaliser un paragraphe, rien de plus simple, il suffit de sauter / laisser une ligne vide entre les deux textes.

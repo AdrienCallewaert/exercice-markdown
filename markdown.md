@@ -67,17 +67,17 @@ Il s'agit de l'équivalent de : <p>Rendez-vous sur <a href="https://becode.org">
 Pour publier une image statique, c'est le même principe que les liens sauf qu'il faut ajouter un ! devant les crochets.
 
 Il faut donc entourer l'équivalent de l'alt du HTML entre crochets \[\] et le précéder d'un !. Le lien URL de l'image est entre parenthèses \(\).
-Comme ceci :  ![baby Yoda](https://cdn.radiofrance.fr/s3/cruiser-production/2020/11/e51977ae-afa4-41bd-a014-03ae5c6b7b5f/801x410_capture_decran_2020-11-10_a_165950.jpg)
+Comme ceci :  
+`![baby Yoda](https://cdn.radiofrance.fr/s3/cruiser-production/2020/11/e51977ae-afa4-41bd-a014-03ae5c6b7b5f/801x410_capture_decran_2020-11-10_a_165950.jpg)`
 
-Il s'agit de l'équivalent de <p><img src="https://cdn.radiofrance.fr/s3/cruiser-production/2020/11/e51977ae-afa4-41bd-a014-03ae5c6b7b5f/801x410_capture_decran_2020-11-10_a_165950.jpg" alt="baby Yoda" /></p>
 
 ### Images animées
 Pour publier une image animée, le principe est le même.
 
 Il faut donc entourer l'équivalent de l'alt du HTML entre crochets \[\] et le précéder d'un !. Le lien URL de l'image est entre parenthèses \(\).
-Comme ceci :  ![baby Yoda](https://giphy.com/gifs/mashable-baby-yoda-mandalorian-the-C0ZArORmrDQCRTIFnQ)
+Comme ceci :  
+`![baby Yoda](https://giphy.com/gifs/mashable-baby-yoda-mandalorian-the-C0ZArORmrDQCRTIFnQ)`
 
-Il s'agit de l'équivalent de <p><img src="https://giphy.com/gifs/mashable-baby-yoda-mandalorian-the-C0ZArORmrDQCRTIFnQ" alt="baby Yoda" /></p>
 
 ## Les blocs de code
 Markdown permet plusieurs manipulations de code :

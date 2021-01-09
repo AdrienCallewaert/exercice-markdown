@@ -69,11 +69,11 @@ Comme ceci :
 `![baby Yoda](https://cdn.radiofrance.fr/s3/cruiser-production/2020/11/e51977ae-afa4-41bd-a014-03ae5c6b7b5f/801x410_capture_decran_2020-11-10_a_165950.jpg)`
 
 ### Images animées
-Pour publier une image animée, le principe est le même.
+Pour publier une image animée, le principe est le même. Cependant, l'URL doit se terminer par un ".gif". Faites donc bien attention à choisir l'URL approprié à l'insertion d'un gif dans le code.
 
 Il faut donc entourer l'équivalent de l'alt du HTML entre crochets \[\] et le précéder d'un !. Le lien URL de l'image est entre parenthèses \(\).
 Comme ceci :  
-`![baby Yoda](https://giphy.com/gifs/mashable-baby-yoda-mandalorian-the-C0ZArORmrDQCRTIFnQ)`
+`![hobbits applaudissent ma découverte](https://media.giphy.com/media/zGnnFpOB1OjMQ/giphy.gif)`
 
 ## Les blocs de code
 Markdown permet plusieurs manipulations de code :

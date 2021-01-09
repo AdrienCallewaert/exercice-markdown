@@ -11,6 +11,7 @@ Le **Markdown** est un language qui permet d'écrire du HTML de façon raccourci
 * Images
 * Code
 
+
 ## Titres
 Il y a deux façons d'écrire les titres en Markdown.
 La première manière, plus pratique et complète, est d'ajouter un ou plusieurs # devant le titre :
@@ -20,6 +21,11 @@ La première manière, plus pratique et complète, est d'ajouter un ou plusieurs
 ### Titre de niveau 3
 #### Titre de niveau 4
 
+`# Titre de niveau 1`
+`## Titre de niveau 2`
+`### Titre de niveau 3`
+`#### Titre de niveau 4`
+
 La deuxième manière est de "souligner" le titre, comme dans l'exemple ci-dessous :
 
 Titre de niveau 1
@@ -28,8 +34,17 @@ Titre de niveau 1
 Titre de niveau 2
 -------------------
 
+`Titre de niveau 1`
+`====================`
+
+`Titre de niveau 2`
+`-------------------`
+
+
+
 ## Paragraphes 
 Pour réaliser un paragraphe, rien de plus simple, il suffit de sauter / laisser une ligne vide entre les deux textes.
+
 
 ## Listes 
 ### Listes non-ordonées
@@ -47,6 +62,7 @@ Pour créer une liste numérotée, il faut ajouter le numéro correspondant au d
 2. Puce 2
 3. Puce 3
 
+
 ## Emphase (gras, italique, ...)
 L'emphase est une mise en valeur d'un mot ou d'un groupe de mots.
 
@@ -56,9 +72,11 @@ Comme ceci : *italique* ou _italique_
 Pour réaliser une emphase forte, l'équivalent du strong sur HTML, il suffit d'entourer le mot de deux étoiles \*\* ou de deux traits de souligenement \_\_ au début et à la fin du mot ou du groupe de mots. Le mot apparaît en gras. 
 Comme ceci : **gras** ou __gras__
 
+
 ## Liens
 Pour écrire un lien sur *Markdown*, il faut entourer le lien cliquable entre crochets \[\] et le lien URL entre parenthèses \(\).
 Comme ceci : Rendez-vous sur `[Becode.org](https://becode.org/)!`
+
 
 ## Images
 ### Images statiques
@@ -75,6 +93,7 @@ Il faut donc entourer l'équivalent de l'alt du HTML entre crochets \[\] et le p
 Comme ceci :  
 `![hobbits applaudissent ma découverte](https://media.giphy.com/media/zGnnFpOB1OjMQ/giphy.gif)`
 
+
 ## Les blocs de code
 Markdown permet plusieurs manipulations de code :
 
@@ -82,12 +101,14 @@ Markdown permet plusieurs manipulations de code :
     Ceci est un bloc de code
 Ceci est un paragraphe normal
 
-* Mentioner du code dans du texte en l'entourant avec ` 
+* Mentioner du code dans du texte en l'entourant avec un accent grave 
 Exemple : avec `printf()` on peut afficher à l'écran
+
 
 Hyper lien
 ----------
-[Référenciel readme](#README.md)
+[Référenciel readme](./README.md)
+
 
 Dream Team Ever
 ---------------

@@ -1,4 +1,5 @@
 Exercice-markdown
+=================
 
 A propos
 --------
@@ -31,4 +32,4 @@ Ressources
 
 Hyper lien
 ----------
-[Markdown file team](#markdown.md)
+[Markdown file team](./markdown.md)

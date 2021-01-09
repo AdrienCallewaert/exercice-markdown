@@ -112,4 +112,4 @@ Hyper lien
 
 Dream Team Ever
 ---------------
-You know my intelligence. <p><img src="https://i.imgur.com/93Cx5lh.gif" alt="WE" /></p>
+You know my intelligence. ![cat wears glasses](https://i.imgur.com/93Cx5lh.gif)

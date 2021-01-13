@@ -4,7 +4,7 @@ Exercice-markdown
 A propos
 --------
 
-Dans ce dossier nous allons vous proposer comment fonctionne marckdown.
+Dans ce dossier nous allons vous proposer comment fonctionne Markdown.
 
 Contenu
 -------
